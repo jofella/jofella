@@ -6,4 +6,4 @@ My github contains all the projects I worked on at university, on my internships
 - Currently M.Sc. Quantiative Finance @CAU Kiel
 - B.Sc. International Finance @HfWU Nürtingen-Geislingen
 
-Always open for any feedback! In case you wanna reach out hit me up on Linked in.
+Always happy for any feedback! In case you wanna reach out hit me up on Linked in.
